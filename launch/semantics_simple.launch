@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<launch>
+
+
+<node pkg="semantic_map" type="semantic_map_node" name="semantic_map_node" args="" output="screen">
+</node>
+</launch>
+
+
